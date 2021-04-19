@@ -1,7 +1,11 @@
 {
-    "Name": "Hearth OS Repository",
-    "About": "This is the main repo.",
-    
-    "Owner": "Hearth OS Lead Developers",
-    "URL": "https://hearth-os.github.io/HAM-Public/"
+	"Name": "Hearth OS Repository",
+	"About": "This is the main repo.",
+
+	"Owner": "Hearth OS Lead Developers",
+	"URL": "https://hearth-os.github.io/HAM-Public/",
+
+	"Packages": {
+		"test": "/test"
+	}
 }
