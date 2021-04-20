@@ -6,6 +6,7 @@
 	"URL": "https://hearth-os.github.io/HAM-Public/",
 
 	"Packages": {
-		"test": "/test"
+		"test": "/test",
+		"cinder": "/cinder"
 	}
 }
