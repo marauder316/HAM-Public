@@ -1,5 +1,6 @@
 {
   "Name": "Test package",
+  "License": "Public Domain",
   "Developer": "Hearth OS",
   "DeveloperWWW": "https://hearth-os.github.io/",
   "Version": "0.1",
