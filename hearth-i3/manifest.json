@@ -1,0 +1,10 @@
+{
+  "Name": "Hearth i3",
+  "License": "BSD-3-Clause License",
+  "Developer": "Marauder316 (Oyo)",
+  "DeveloperWWW": "https://www.instagram.com/oyo.photos/",
+  "Description": "The i3wm on Hearth OS.",
+  "Verified": "False",
+  "Version": "4.18.3",
+  "AppID": "com.marauder316.test"
+}
