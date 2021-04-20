@@ -1,0 +1,7 @@
+{
+  "Name": "Test package",
+  "Developer": "Hearth OS",
+  "DeveloperWWW": "https://hearth-os.github.io/",
+  "Version": "0.1",
+  "AppID": "com.hearth-os.test"
+}
