@@ -3,6 +3,7 @@
   "License": "Public Domain",
   "Developer": "Hearth OS",
   "DeveloperWWW": "https://hearth-os.github.io/",
+  "Verified": "True",
   "Version": "0.1",
   "AppID": "com.hearth-os.test"
 }
