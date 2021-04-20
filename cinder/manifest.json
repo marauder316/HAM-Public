@@ -1,0 +1,9 @@
+{
+  "Name": "Cinder (universal Python shell)",
+  "License": "BSD 3-Clause License",
+  "Developer": "Hearth OS",
+  "DeveloperWWW": "https://hearth-os.github.io/",
+  "Verified": "True",
+  "Version": "0.3.1",
+  "AppID": "com.hearth-os.cinder"
+}
