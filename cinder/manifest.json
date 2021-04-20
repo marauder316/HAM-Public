@@ -3,6 +3,7 @@
   "License": "BSD 3-Clause License",
   "Developer": "Hearth OS",
   "DeveloperWWW": "https://hearth-os.github.io/",
+  "Description": "Hello World package.",
   "Verified": "True",
   "Version": "0.3.1",
   "AppID": "com.hearth-os.cinder"
