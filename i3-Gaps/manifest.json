@@ -1,0 +1,10 @@
+{
+  "Name": "i3 Gaps",
+  "License": "BSD-3-Clause License",
+  "Developer": "Marauder316 (Oyo)",
+  "DeveloperWWW": "https://www.instagram.com/oyo.photos/",
+  "Description": "The i3 Gaps Window Manager on Hearth OS.",
+  "Verified": "False",
+  "Version": "4.19.1",
+  "AppID": "com.marauder316.i3-gaps"
+}
